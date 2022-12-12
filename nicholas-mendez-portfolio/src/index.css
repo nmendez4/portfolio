@@ -1,0 +1,80 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  background-color: rgb(43, 43, 43);
+  font: white;
+}
+
+.font {
+  color: rgb(255, 254, 254);
+}
+
+.my-name {
+  color: #666ebe solid;
+  font-size:xx-large;
+  text-align: left;
+}
+
+.nav {
+  text-align: center;
+  display: flexbox;
+  width: auto;
+  background-color:grey;
+}
+
+div.nav {
+  padding-top: 1em;
+  margin-bottom: 1em;
+}
+
+.nav .nav-item .nav-link .nav-tabs {
+  display: inline-block;
+}
+
+main {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 15em;
+  margin-right: 15em;
+}
+
+.my-resume {
+  width: 150px;
+  height: 150px;
+  border: 2px solid white;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+}
+
+.my-photo {
+  clip-path: circle();
+  width: 200px;
+  height: 200px;
+  border: 2px solid rgb(252, 32, 32);
+}
+
+.label {
+  text-align: center;
+}
+
+.content {
+  font: white;
+}
+
+footer {
+  background-color: rgb(43, 43, 43);
+  font: white;
+}
+
+@media only screen and (max-width: 1024px) {
+  main {
+      margin-top: 2em;
+      margin-bottom: 2em;
+      margin-left: 2em;
+      margin-right: 2em;
+  }
+}
