@@ -7,24 +7,23 @@ function Resume() {
                 <p className="card">Resumé</p>
                 <hr />
 
-                <a className="button" href="www.something.com" target="_blank" rel="noreferrer">
+                <a className="button" href="https://www.dropbox.com/s/5iqfn2bqvub9n42/NicholasEMendez11-2-22%20copy.pdf?dl=0" target="_blank" rel="noreferrer">
                     <span className="icon">
                         <i className="download"></i>
                     </span>
                     <span className="font">Download Here!</span>
                 </a>
-                <img className="my-resume" src={""} alt="myresume"></img>
+                <img className="my-resume" src="nicholas-mendez-portfolio/images/NicholasEMendezResume.png" alt="myresume"></img>
             </div>
             <div className="col">
                 <p className="card">Technical Skills</p>
-                <hr />
-                <ul>
+                <ul className="list">
                     <li>JavaScript, React, Node.js</li>
                     <li>HTML, CSS, Markdown </li>
-                    <li>MongoDB, MySQL</li>
-                    <li>Minor Java and Python work</li>
+                    <li>Databases: MongoDB, MySQL</li>
+                    <li>Minor Experience: Java and Python work</li>
                     <li>Git, Github</li>
-                    <li>VS Code, IntelliJ, Insomnia</li>
+                    <li>Code Editors: VS Code, IntelliJ, Insomnia</li>
                 </ul>
             </div>
         </div>
