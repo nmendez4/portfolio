@@ -13,7 +13,8 @@ function Resume() {
                     </span>
                     <span className="font">Download Here!</span>
                 </a>
-                <img className="my-resume" src="nicholas-mendez-portfolio/images/NicholasEMendezResume.png" alt="myresume"></img>
+                <img className="my-resume" src="images/NicholasEMendezResume.png" alt="myresume"></img>
+                <hr />
             </div>
             <div className="col">
                 <p className="card">Technical Skills</p>

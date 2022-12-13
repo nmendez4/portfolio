@@ -1,5 +1,5 @@
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family:Arial, Helvetica, sans-serif;
   text-align: center;
   background-color: rgb(43, 43, 43);
   font: white;
@@ -38,9 +38,13 @@ main {
   margin-right: 15em;
 }
 
+.button .icon {
+  border: #666ebe;
+}
+
 .my-resume {
-  width: 150px;
-  height: 150px;
+  width: 265px;
+  height: 350px;
   border: 2px solid white;
 }
 
@@ -51,10 +55,10 @@ main {
 }
 
 .my-photo {
-  clip-path: circle();
-  width: 200px;
-  height: 200px;
-  border: 2px solid rgb(252, 32, 32);
+  clip-path: circle(59%);
+  width: 250px;
+  height: 300px;
+  border: 2px solid #666ebe;
 }
 
 .label {
@@ -74,14 +78,10 @@ main {
   
 }
 
-.my-resume {
-  width: 150px;
-  height: 150px;
-}
-
 footer {
   background-color: rgb(43, 43, 43);
   color: whitesmoke;
+  position: absolute bottom;
 }
 
 @media only screen and (max-width: 1024px) {
