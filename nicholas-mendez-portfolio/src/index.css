@@ -19,7 +19,7 @@ body {
   text-align: center;
   display: flexbox;
   width: auto;
-  background-color:grey;
+  background-color:rgb(174, 174, 174);
 }
 
 div.nav {
@@ -38,20 +38,29 @@ main {
   margin-right: 15em;
 }
 
-.button .icon {
-  border: #666ebe;
+.button {
+  border-block: #666ebe;
 }
 
 .my-resume {
-  width: 265px;
-  height: 350px;
-  border: 2px solid white;
+  width: 550px;
+  height: 665px;
+  border: 3px solid black;
 }
+
+/* .font {
+
+} */
 
 .card img {
   width: 200px;
   height: 200px;
   border: 2px solid white;
+}
+
+.card {
+  background: black !important;
+  color: whitesmoke;
 }
 
 .my-photo {

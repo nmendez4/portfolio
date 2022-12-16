@@ -1,13 +1,19 @@
 import React from "react";
 
 function Resume() {
+
+    // would like to have function to hover over download button
+    // need to read up on documentation https://upmostly.com/tutorials/react-onhover-event-handling-with-examples
+    // function changeHover(e) {
+    //     e.target.style.color = 'blue'
+    // } -> code to enter into line 14 onMouseOver={changeHover}
     return (
         <div className="container">
             <div className="col">
                 <p className="card">Resumé</p>
                 <hr />
 
-                <a className="button" href="https://www.dropbox.com/s/5iqfn2bqvub9n42/NicholasEMendez11-2-22%20copy.pdf?dl=0" target="_blank" rel="noreferrer">
+                <a className="button" href="https://www.dropbox.com/s/5iqfn2bqvub9n42/NicholasEMendez11-2-22%20copy.pdf?dl=0" target="_blank" rel="noreferrer" > 
                     <span className="icon">
                         <i className="download"></i>
                     </span>
