@@ -68,3 +68,4 @@ export default Contact;
 // want to be able to have forms send data input on contact page to email 
 // or send some kind of notification
 // documentation https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript
+// more documentation https://codepen.io/hubspot/pen/abYWrOz 
