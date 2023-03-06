@@ -68,4 +68,10 @@ export default Contact;
 // want to be able to have forms send data input on contact page to email 
 // or send some kind of notification
 // documentation https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_forms_through_JavaScript
+
+
 // more documentation https://codepen.io/hubspot/pen/abYWrOz 
+// action="mailto:nicholas.e.mendez5@gmail.com" method="POST" encType="text/plain" name="EmailForm"
+
+// more documentation
+// https://medium.com/geekculture/how-to-send-emails-from-a-form-in-react-emailjs-6cdd21bb4190

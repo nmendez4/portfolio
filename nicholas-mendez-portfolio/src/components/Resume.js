@@ -27,8 +27,8 @@ function Resume() {
                 <ul className="list">
                     <li>JavaScript, React, Node.js</li>
                     <li>HTML, CSS, Markdown </li>
-                    <li>Databases: MongoDB, MySQL</li>
-                    <li>Minor Experience: Java and Python work</li>
+                    <li>Databases: MongoDB, MySQL, NoSQL</li>
+                    <li>Minor Experience: Java, Python, C#</li>
                     <li>Git, Github</li>
                     <li>Code Editors: VS Code, IntelliJ, Insomnia</li>
                 </ul>
