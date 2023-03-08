@@ -6,6 +6,16 @@ import Project from './Project';
 const projects = [
 {
     id: 0,
+    title: "Weight Tracker",
+    languages: "JavaScript, HTML, CSS",
+    packages: "Bootstrap, Compression, Express.js, MongoDB, Mongoose, Nodemon",
+    image: "images/WeightTracker.png",
+    description: "A weight tracker app that allows the user to track their weight and use the web application while offline!",
+    respository: "https://github.com/nmendez4/weight-tracker",
+    live: "https://github.com/nmendez4/weight-tracker"
+},
+{
+    id: 1,
     title: "Just Tech News",
     languages: "Java, HTML, JavaScript, CSS",
     packages: "SpringBoot, Maven",
@@ -15,7 +25,7 @@ const projects = [
     live: "https://cc-java-api-24.herokuapp.com/"
 },
 {
-    id: 1,
+    id: 2,
     title: "Take It or Leave It",
     languages: "JavaScript, HTML, CSS",
     packages: "Node.js, Express.js, Handlebars.js, MySQL, Sequelize",
@@ -25,7 +35,7 @@ const projects = [
     live: "https://desolate-dusk-43697.herokuapp.com/",
 },
 {
-    id: 2,
+    id: 3,
     title: "budget-app",
     languages: "JavaScript",
     packages: "MongoDB, Mongoose, Node.js, Express.js",
@@ -35,7 +45,7 @@ const projects = [
     live: "https://budget-app-pwa4.herokuapp.com/",
 },
 {
-    id: 3,
+    id: 4,
     title: "social-network-api",
     languages: "JavaScript",
     packages: "MongoDB, Mongoose, Node.js, Express.js",
@@ -45,7 +55,7 @@ const projects = [
     live: "N/A",
 },
 {
-    id: 4,
+    id: 5,
     title: "tech-blog",
     languages: "JavaScript",
     packages: "Node.js, Express.js, Handlebars.js, MySQL, Sequelize",
@@ -55,7 +65,7 @@ const projects = [
     live: "https://tech-nically-a-blog.herokuapp.com/",
 },
 {
-    id: 5,
+    id: 6,
     title: "ecommerce-back-end",
     languages: "JavaScript, Insomnia",
     packages: "Node.js, Express.js, Sequelize, ORM",
@@ -65,7 +75,7 @@ const projects = [
     live: "N/A",
 },
 {
-    id: 6,
+    id: 7,
     title: "mysql-employee-tracker",
     languages: "JavaScript",
     packages: "Node.js, inquirer.js, MySQL2, console.table",

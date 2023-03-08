@@ -29,7 +29,8 @@ function Header() {
             <nav className="nav">
                 <div className="nav-item">
                     <a className="nav-link" rel="noreferrer" target="blank" href="https://github.com/nmendez4?tab=repositories">
-                        <span className="card my-name">Nicholas Mendez</span>
+                        <span className="card my-name">Nicholas E. Mendez</span>
+                        <span className="card my-name">Certified Web Developer</span>
                     </a>
                 </div>
             </nav>

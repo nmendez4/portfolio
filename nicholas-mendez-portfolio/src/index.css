@@ -10,7 +10,7 @@ body {
 }
 
 .my-name {
-  color: #666ebe solid;
+  color: #54c886 solid;
   font-size:xx-large;
   text-align: left;
 }
@@ -29,6 +29,7 @@ div.nav {
 
 .nav .nav-item .nav-link .nav-tabs {
   display: inline-block;
+  color: #54c886;
 }
 
 main {
@@ -39,7 +40,7 @@ main {
 }
 
 .button {
-  border-block: #666ebe;
+  border-block: #54c886;
 }
 
 .resume {
@@ -67,7 +68,7 @@ main {
 
 .card {
   background: black !important;
-  color: whitesmoke;
+  color: rgb(54, 197, 126);
 }
 
 .description {
@@ -81,7 +82,7 @@ main {
   clip-path: circle(59%);
   width: 250px;
   height: 335px;
-  border: 2px solid #666ebe;
+  border: 2px solid rgb(54, 197, 126);
 }
 
 .label {
