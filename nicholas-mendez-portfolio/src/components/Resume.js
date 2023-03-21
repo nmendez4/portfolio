@@ -13,13 +13,13 @@ function Resume() {
                 <p className="card">Resumé</p>
                 <hr />
 
-                <a className="button" href="https://www.dropbox.com/s/v7ifjh19j0zmj2a/NicholasMendezResume31523.pdf?dl=0" target="_blank" rel="noreferrer" > 
+                <a className="button" href="https://www.dropbox.com/s/udjtpvrnzm922eb/NicholasMendezResume32123%20copy.pdf?dl=0" target="_blank" rel="noreferrer" > 
                     <span className="icon">
                         <i className="download"></i>
                     </span>
                     <span className="font">Download Here!</span>
                 </a>
-                <img className="my-resume" src="images/NicholasMendezResume31423.png" alt="myresume"></img>
+                <img className="my-resume" src="images/NicholasMendezResume32123.jpg" alt="myresume"></img>
                 <hr />
             </div>
             <div className="col">
